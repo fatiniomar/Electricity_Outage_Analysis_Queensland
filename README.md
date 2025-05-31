@@ -45,7 +45,7 @@ Ensure you have Python 3.8+ installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/fatinipmar/Electricity_Outage_Analysis_Queensland.git]
+    git clone [https://github.com/fatiniomar/Electricity_Outage_Analysis_Queensland.git]
     cd Electricity_Outage_Analysis_Queensland
     ```
 
@@ -75,6 +75,3 @@ Ensure you have Python 3.8+ installed.
 For any questions or further discussions regarding this project, please feel free to reach out:
 * n11691611@qut.edu.au
 
-## 9. License
-
-This project is licensed under the [Choose a License, e.g., MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
